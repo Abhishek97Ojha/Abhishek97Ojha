@@ -16,7 +16,8 @@
 
 </div>
 <br/>
-I’m a Frontend Developer who has passion for building clean web applications with intuitive functionality.I love exploring and learning new tech stack. I am a FrontEnd Developer with a passion for designing and developing intuitive user interfaces that create seamless user experiences.
+<p>
+I’m a FrontEnd Developer with a passion for designing and developing intuitive user interfaces that create seamless user experiences and building clean web applications with intuitive functionality. I love exploring and learning new tech stack. 
 
   
 I specialize in building responsive websites and web applications using HTML, CSS, JavaScript, and front-end framework React. I'm always learning new technologies and exploring new design trends to enhance my skills and stay up-to-date with the latest industry developments.
@@ -24,31 +25,28 @@ I specialize in building responsive websites and web applications using HTML, CS
 In addition to my technical skills, I am a collaborative team player and a quick learner. I am eager to contribute to the success of your company and work alongside other talented developers to build amazing products.
 
 Please feel free to explore my GitHub profile to see some of my recent projects and sample code. If you have any questions or would like to discuss my qualifications further, please don't hesitate to contact me. I'm excited to take on new challenges and make a meaningful contribution to your organization. 
-<br/>
+</p>
 <br/>
 <p align="center">
 <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "It's never late to get started 🎯❤️!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
  </p>
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<p align="center"><img  alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" /></p>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+ <br>
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;About me ....</h2>
 
-✔  🔭 &nbsp; I’m currently working on Front-End Development using React and Redux.
-✔  🤝 &nbsp;  I’m looking to collaborate on exciting projects which helps us to make our lives more efficient.<br>
-✔  💬 Ask me about  HTML, CSS, JavaScript, React, Python<br>
-✔  📫 &nbsp;You can email me at [Gmail](mailto:abhishek97ojha@gmail.com)<br>
+✔  🔭 &nbsp; I’m currently working on Front-End Development using React and Redux.<br>
+✔  🤝 &nbsp; I’m looking to collaborate on exciting projects which helps us to make our lives more efficient.<br>
+✔  💬 &nbsp; Ask me about  HTML, CSS, JavaScript, React, Python<br>
+✔  📫 &nbsp; You can email me at [Gmail](mailto:abhishek97ojha@gmail.com)<br>
 ✔  📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/abhishekojha-/),If I am alive I will answer within seconds 😉<br>
 <!-- ✔  📫 &nbsp; I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1QSQ4T7tpPunDcT0Wolx7HnijckS2hvPs/view?usp=drivesdk) -->
  <br>
-<br>
 
 <!-- contact me -->
-<details>
- <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Contact me ....</summary>
+ <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Contact me ....</h2>
 <div>
-  <samp>
-    <h2 align="center">You can reach me by:</h2>
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/abhishekojha-/" target="blank"><img align="center"
@@ -58,14 +56,10 @@ Please feel free to explore my GitHub profile to see some of my recent projects 
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="Noah" height="30"/></a>
     </p>
-  </samp>
 </div>
-</details>
-
-<details>
- <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Language and Tools ....</summary>
+<br>
+ <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Language and Tools ....</h2>
  <div>
- <samp>
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
@@ -73,13 +67,13 @@ Please feel free to explore my GitHub profile to see some of my recent projects 
       alt="javascript"/> 
   </a>
   <a href="https://www.python.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=python&logoColor=black"
+    <img src="https://img.shields.io/badge/Python-FFD43B.svg?style=for-the-badge&logo=python&logoColor=black"
       alt="python"/> 
   </a>
-
 </p>
-
+<br>
 <h3 align="center">Frontend</h3>
+   <p align="center">
    <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
       alt="html5"/> 
@@ -102,7 +96,7 @@ Please feel free to explore my GitHub profile to see some of my recent projects 
   </a> 
 
 </p>
-
+<br>
 <h3 align="center">Cloud & Hosting:</h3>
 <p align="center">
  
@@ -113,7 +107,7 @@ Please feel free to explore my GitHub profile to see some of my recent projects 
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
 
 </p>
-
+<br>
 
 <h3 align="center">Version Control & CI/CD</h3>
 <p align="center">
@@ -130,7 +124,7 @@ Please feel free to explore my GitHub profile to see some of my recent projects 
   </a>
    
 </p>
-
+<br>
 <h3 align="center">Preferred IDEs  & Tools :</h3>
 <p align="center"> 
 
@@ -142,29 +136,26 @@ Please feel free to explore my GitHub profile to see some of my recent projects 
 
   
 
-</p> 
- </samp> 
+</p>
  </div>
- </details>
+<br>
 
 
-<details>
-  <summary>Quote</summary>
+  <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Quote ....</h2>
   <br>
   One of my favourite quotes
   <blockquote>
     “Can I say something? Um, I’m the type of person that if you ask me a question and I don’t know the answer, I’m gonna tell you that I don’t know. But I bet you what, I know how to find the answer and I will find the answer.”
     <br><strong>Chris Gardner interpreted by Will Smith in the movie "Pursuit of Happyness" (2006)</strong>
   </blockquote>
-</details>
+<br>
 
-<details>
-  <summary>Free DOSE hit</summary>
+  <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Free DOSE hit ....</h2>
   <br>
   <small><i>Refresh page if dose was ineffective.</i></small>
   <br>
   <div align="center"><img src="https://readme-jokes.vercel.app/api?theme=monokai" alt="Jokes Card" /></div>
-</details>
+<br>
 
 &emsp;
 
