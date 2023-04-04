@@ -38,9 +38,9 @@ Please feel free to explore my GitHub profile to see some of my recent projects 
 
 ✔  🔭 &nbsp; I’m currently working on Front-End Development using React and Redux.<br>
 ✔  🤝 &nbsp; I’m looking to collaborate on exciting projects which helps us to make our lives more efficient.<br>
-✔  💬 &nbsp; Ask me about  HTML, CSS, JavaScript, React, Python<br>
-✔  📫 &nbsp; You can email me at [Gmail](mailto:abhishek97ojha@gmail.com)<br>
-✔  📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/abhishekojha-/),If I am alive I will answer within seconds 😉<br>
+✔  💬 &nbsp; Ask me about  HTML, CSS, JavaScript, React, Python.<br>
+✔  📫 &nbsp; You can email me at [Gmail](mailto:abhishek97ojha@gmail.com).<br>
+✔  📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/abhishekojha-/).<br>
 <!-- ✔  📫 &nbsp; I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1QSQ4T7tpPunDcT0Wolx7HnijckS2hvPs/view?usp=drivesdk) -->
  <br>
 
