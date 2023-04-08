@@ -41,7 +41,7 @@ Please feel free to explore my GitHub profile to see some of my recent projects 
 ✔  💬 &nbsp; Ask me about  HTML, CSS, JavaScript, React, Redux, Python.<br>
 ✔  📫 &nbsp; You can email me at [Gmail](mailto:abhishek97ojha@gmail.com).<br>
 ✔  📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/abhishekojha-/).<br>
-✔  📫 &nbsp; I’m currently open for an Intern or a New Job opportunity, this is [My Resume](https://github.com/Abhishek97Ojha/Abhishek97Ojha/files/11182794/Abhishek.Ojha.s.Resume.pdf).
+✔  📫 &nbsp; I’m currently open for an Intern or a New Job opportunity, this is [My Resume](https://drive.google.com/file/d/1lZM_QvGPGYaRFi1rLn8T9gkokOWKIsVX/view?usp=share_link).
  <br>
 <!-- contact me -->
  <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Contact me ....</h2>
