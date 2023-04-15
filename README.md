@@ -155,7 +155,25 @@ Please feel free to explore my GitHub profile to see some of my recent projects 
   <br>
   <div align="center"><img src="https://readme-jokes.vercel.app/api?theme=monokai" alt="Jokes Card" /></div>
 <br>
-
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Projects ....</h2>
+  <br>
+ <h3>FlixFinder</h3>
+  <ul>
+<li> <h4>Project Overview : </h4>Built a React-based movie search web application that enables users to search for movies by title and view trending movies by week. This website is designed to be user-friendly and visually appealing.</li><br>
+ <li><h4>Key Features : </h4>Implemented search feature which allows users to search movies. Implemented Function Components, Hooks, Higher-order functions, Routing, and Integrated third-party APIs like TMDB API for movie data to enhance the application's functionality.</li><br>
+ <li> <h4>Tech Stack : </h4>JavaScript, ReactJs, CSS, HTML.</li><br>
+  <li> <a href="https://movie-app-ashy-phi.vercel.app/" >Hosted Link</a></li>
+    <li><a href="https://github.com/Abhishek97Ojha/Movie-App">Repository</a></li>
+ </ul>
+  <br/>
+<h3>CoinWatch</h3>
+  <ul>
+<li><h4>Project Overview : </h4>Developed a React-based real time crypto tracker web application that provides real-time data for the top 100 cryptocurrencies. It also allows the user to search for a particular Crypto-Currency and get details related to it.</li>
+<li><h4>Key Features : </h4>Application showcases real-time value of the cryptocurrency along with their price, price change percentage, market cap value, and volume. Utilized Function Components, Hooks, Higher-order functions, Routing, and Integrated third-party API like CoinGecko API to ensure the application's functionality and data accuracy.</li>
+<li><h4>Tech Stack : </h4>JavaScript, ReactJs, CSS, HTML.</li>
+ <li><a href="https://crypto-currency-tracker-two.vercel.app/">Hosted Link</a></li>
+ <li><a href="https://github.com/Abhishek97Ojha/Crypto-Currency-Tracker">Repository</a></li>
+</ul>
 &emsp;
 
 ## 📈 My GitHub Stats and Activity
