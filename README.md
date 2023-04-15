@@ -170,7 +170,7 @@ Please feel free to explore my GitHub profile to see some of my recent projects 
   <ul>
 <li><h4>Project Overview : </h4>Developed a React-based real time crypto tracker web application that provides real-time data for the top 100 cryptocurrencies. It also allows the user to search for a particular Crypto-Currency and get details related to it.</li>
 <li><h4>Key Features : </h4>Application showcases real-time value of the cryptocurrency along with their price, price change percentage, market cap value, and volume. Utilized Function Components, Hooks, Higher-order functions, Routing, and Integrated third-party API like CoinGecko API to ensure the application's functionality and data accuracy.</li>
-<li><h4>Tech Stack : </h4>JavaScript, ReactJs, CSS, HTML.</li>
+<li><h4>Tech Stack : </h4>JavaScript, ReactJs, CSS, HTML.</li><br/>
  <li><a href="https://crypto-currency-tracker-two.vercel.app/">Hosted Link</a></li>
  <li><a href="https://github.com/Abhishek97Ojha/Crypto-Currency-Tracker">Repository</a></li>
 </ul>
